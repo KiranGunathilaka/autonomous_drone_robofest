@@ -1,0 +1,56 @@
+-- The C compiler identification is GNU 9.4.0
+-- The CXX compiler identification is GNU 9.4.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+-- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /root/dev/ardpt/droneController/drone_ws/build/auto_drone
+-- Install configuration: ""
+-- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/worlds
+-- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/worlds/arena.world
+-- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/models
+-- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/models/arena
+-- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/models/arena/model.sdf
+-- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/models/arena/model.config
+-- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/models/iris_drone
+-- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/models/iris_drone/model.sdf
+-- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/models/iris_drone/model.config
+-- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/models/iris_drone/meshes
+-- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/models/iris_drone/meshes/iris.dae
+-- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/models/iris_drone/meshes/iris_prop_cw.dae
+-- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/models/iris_drone/meshes/iris_prop_ccw.dae
+-- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/launch
+-- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/launch/__pycache__
+-- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/launch/__pycache__/arena_with_iris.launch.cpython-38.pyc
+-- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/launch/arena_with_iris.launch.py
+-- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/package.xml
+-- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/environment/gazebo_model_path.dsv
+-- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/ament_index/resource_index/package_run_dependencies/auto_drone
+-- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/ament_index/resource_index/parent_prefix_path/auto_drone
+-- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/environment/ament_prefix_path.sh
+-- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/environment/ament_prefix_path.dsv
+-- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/environment/path.sh
+-- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/environment/path.dsv
+-- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/local_setup.bash
+-- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/local_setup.sh
+-- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/local_setup.zsh
+-- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/local_setup.dsv
+-- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/package.dsv
+-- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/ament_index/resource_index/packages/auto_drone
+-- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/cmake/auto_droneConfig.cmake
+-- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/cmake/auto_droneConfig-version.cmake
+-- Up-to-date: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/package.xml

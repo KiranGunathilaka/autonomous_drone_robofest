@@ -1,0 +1,6 @@
+Invoking command in '/root/dev/ardpt/droneController/drone_ws/build/auto_drone': /usr/bin/cmake /root/dev/ardpt/droneController/drone_ws/src/auto_drone -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCATKIN_SYMLINK_INSTALL=ON -DCMAKE_INSTALL_PREFIX=/root/dev/ardpt/droneController/drone_ws/install/auto_drone
+Invoked command in '/root/dev/ardpt/droneController/drone_ws/build/auto_drone' returned '0': /usr/bin/cmake /root/dev/ardpt/droneController/drone_ws/src/auto_drone -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCATKIN_SYMLINK_INSTALL=ON -DCMAKE_INSTALL_PREFIX=/root/dev/ardpt/droneController/drone_ws/install/auto_drone
+Invoking command in '/root/dev/ardpt/droneController/drone_ws/build/auto_drone': /usr/bin/cmake --build /root/dev/ardpt/droneController/drone_ws/build/auto_drone -- -j12 -l12
+Invoked command in '/root/dev/ardpt/droneController/drone_ws/build/auto_drone' returned '0': /usr/bin/cmake --build /root/dev/ardpt/droneController/drone_ws/build/auto_drone -- -j12 -l12
+Invoking command in '/root/dev/ardpt/droneController/drone_ws/build/auto_drone': /usr/bin/cmake --install /root/dev/ardpt/droneController/drone_ws/build/auto_drone
+Invoked command in '/root/dev/ardpt/droneController/drone_ws/build/auto_drone' returned '0': /usr/bin/cmake --install /root/dev/ardpt/droneController/drone_ws/build/auto_drone

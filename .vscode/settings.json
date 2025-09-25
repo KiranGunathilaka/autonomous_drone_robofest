@@ -1,0 +1,36 @@
+{
+  // … keep your existing entries …
+  "xml.fileAssociations": [
+    { "pattern": "**/*.world", "systemId": "https://sdformat.org/schemas/root.xsd" },
+    { "pattern": "**/*.sdf",   "systemId": "https://sdformat.org/schemas/root.xsd" }
+  ],
+  "files.associations": {
+    "*.world": "xml",
+    "*.sdf":   "xml"
+  },
+
+  // (Optional) if you use that URDF extension:
+  "urdf-visualizer.packages": {
+    "robofest_arena": "${workspaceFolder}/worlds/robofest_arena"
+  },
+
+  // ⬇️ Pylance: tell it where ROS Foxy’s Python modules live
+  "python.analysis.extraPaths": [
+    "/opt/ros/foxy/lib/python3.8/site-packages",
+    "${workspaceFolder}/install/autoDrone/lib/python3.8/site-packages",
+    "${workspaceFolder}/install/lib/python3.8/site-packages"
+  ],
+  "python.autoComplete.extraPaths": [
+    "/opt/ros/foxy/lib/python3.8/site-packages",
+    "${workspaceFolder}/install/autoDrone/lib/python3.8/site-packages",
+    "${workspaceFolder}/install/lib/python3.8/site-packages"
+  ],
+
+  // Make sure VS Code is using the system Python that ROS Foxy targets
+  "python.defaultInterpreterPath": "/usr/bin/python3",
+
+  // ⚠️ CMake sourceDirectory: usually you *don’t* point this at a ROS package,
+  // because colcon drives CMake for you. If you keep it, set it to the workspace
+  // root (or remove it):
+  // "cmake.sourceDirectory": "/root/dev/ardpt/droneController/drone_ws"
+}

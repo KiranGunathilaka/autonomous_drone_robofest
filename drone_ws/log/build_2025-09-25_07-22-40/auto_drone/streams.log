@@ -1,0 +1,69 @@
+[0.015s] Invoking command in '/root/dev/ardpt/droneController/drone_ws/build/auto_drone': /usr/bin/cmake /root/dev/ardpt/droneController/drone_ws/src/auto_drone -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCATKIN_SYMLINK_INSTALL=ON -DCMAKE_INSTALL_PREFIX=/root/dev/ardpt/droneController/drone_ws/install/auto_drone
+[0.059s] -- The C compiler identification is GNU 9.4.0
+[0.102s] -- The CXX compiler identification is GNU 9.4.0
+[0.106s] -- Check for working C compiler: /usr/bin/cc
+[0.163s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.164s] -- Detecting C compiler ABI info
+[0.219s] -- Detecting C compiler ABI info - done
+[0.228s] -- Detecting C compile features
+[0.228s] -- Detecting C compile features - done
+[0.230s] -- Check for working CXX compiler: /usr/bin/c++
+[0.293s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.294s] -- Detecting CXX compiler ABI info
+[0.357s] -- Detecting CXX compiler ABI info - done
+[0.366s] -- Detecting CXX compile features
+[0.367s] -- Detecting CXX compile features - done
+[0.369s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.389s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.389s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.561s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[0.613s] -- Configuring done
+[0.615s] -- Generating done
+[0.616s] CMake Warning:
+[0.616s]   Manually-specified variables were not used by the project:
+[0.616s] 
+[0.616s]     CATKIN_INSTALL_INTO_PREFIX_ROOT
+[0.616s]     CATKIN_SYMLINK_INSTALL
+[0.616s] 
+[0.616s] 
+[0.616s] -- Build files have been written to: /root/dev/ardpt/droneController/drone_ws/build/auto_drone
+[0.620s] Invoked command in '/root/dev/ardpt/droneController/drone_ws/build/auto_drone' returned '0': /usr/bin/cmake /root/dev/ardpt/droneController/drone_ws/src/auto_drone -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCATKIN_SYMLINK_INSTALL=ON -DCMAKE_INSTALL_PREFIX=/root/dev/ardpt/droneController/drone_ws/install/auto_drone
+[0.623s] Invoking command in '/root/dev/ardpt/droneController/drone_ws/build/auto_drone': /usr/bin/cmake --build /root/dev/ardpt/droneController/drone_ws/build/auto_drone -- -j12 -l12
+[0.659s] Invoked command in '/root/dev/ardpt/droneController/drone_ws/build/auto_drone' returned '0': /usr/bin/cmake --build /root/dev/ardpt/droneController/drone_ws/build/auto_drone -- -j12 -l12
+[0.706s] Invoking command in '/root/dev/ardpt/droneController/drone_ws/build/auto_drone': /usr/bin/cmake --install /root/dev/ardpt/droneController/drone_ws/build/auto_drone
+[0.713s] -- Install configuration: ""
+[0.713s] -- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/worlds
+[0.713s] -- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/worlds/arena.world
+[0.713s] -- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/models
+[0.713s] -- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/models/arena
+[0.713s] -- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/models/arena/model.sdf
+[0.713s] -- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/models/arena/model.config
+[0.713s] -- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/models/iris_drone
+[0.713s] -- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/models/iris_drone/model.sdf
+[0.713s] -- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/models/iris_drone/model.config
+[0.714s] -- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/models/iris_drone/meshes
+[0.714s] -- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/models/iris_drone/meshes/iris.dae
+[0.727s] -- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/models/iris_drone/meshes/iris_prop_cw.dae
+[0.728s] -- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/models/iris_drone/meshes/iris_prop_ccw.dae
+[0.728s] -- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/launch
+[0.728s] -- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/launch/__pycache__
+[0.728s] -- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/launch/__pycache__/arena_with_iris.launch.cpython-38.pyc
+[0.728s] -- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/launch/arena_with_iris.launch.py
+[0.728s] -- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/package.xml
+[0.729s] -- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/environment/gazebo_model_path.dsv
+[0.729s] -- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/ament_index/resource_index/package_run_dependencies/auto_drone
+[0.729s] -- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/ament_index/resource_index/parent_prefix_path/auto_drone
+[0.729s] -- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/environment/ament_prefix_path.sh
+[0.729s] -- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/environment/ament_prefix_path.dsv
+[0.729s] -- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/environment/path.sh
+[0.730s] -- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/environment/path.dsv
+[0.730s] -- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/local_setup.bash
+[0.730s] -- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/local_setup.sh
+[0.730s] -- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/local_setup.zsh
+[0.730s] -- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/local_setup.dsv
+[0.730s] -- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/package.dsv
+[0.730s] -- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/ament_index/resource_index/packages/auto_drone
+[0.731s] -- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/cmake/auto_droneConfig.cmake
+[0.731s] -- Installing: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/cmake/auto_droneConfig-version.cmake
+[0.731s] -- Up-to-date: /root/dev/ardpt/droneController/drone_ws/install/auto_drone/share/auto_drone/package.xml
+[0.732s] Invoked command in '/root/dev/ardpt/droneController/drone_ws/build/auto_drone' returned '0': /usr/bin/cmake --install /root/dev/ardpt/droneController/drone_ws/build/auto_drone

@@ -1,0 +1,9 @@
+/root/dev/ardpt/droneController/drone_ws/build/auto_drone/CMakeFiles/install/local.dir
+/root/dev/ardpt/droneController/drone_ws/build/auto_drone/CMakeFiles/install.dir
+/root/dev/ardpt/droneController/drone_ws/build/auto_drone/CMakeFiles/list_install_components.dir
+/root/dev/ardpt/droneController/drone_ws/build/auto_drone/CMakeFiles/rebuild_cache.dir
+/root/dev/ardpt/droneController/drone_ws/build/auto_drone/CMakeFiles/edit_cache.dir
+/root/dev/ardpt/droneController/drone_ws/build/auto_drone/CMakeFiles/test.dir
+/root/dev/ardpt/droneController/drone_ws/build/auto_drone/CMakeFiles/install/strip.dir
+/root/dev/ardpt/droneController/drone_ws/build/auto_drone/CMakeFiles/auto_drone_uninstall.dir
+/root/dev/ardpt/droneController/drone_ws/build/auto_drone/CMakeFiles/uninstall.dir

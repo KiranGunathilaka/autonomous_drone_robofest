@@ -1,0 +1,4 @@
+# .dsv is the ament’s portable env file format (prefix-aware)
+
+prepend-non-duplicate;GAZEBO_MODEL_PATH;share/auto_drone/models
+prepend-non-duplicate;GAZEBO_RESOURCE_PATH;share/auto_drone/models
